@@ -5,6 +5,7 @@
 import itertools
 import math
 from collections import defaultdict
+import json
 
 from convlab.modules.nlu.multiwoz.svm import Tuples
 
